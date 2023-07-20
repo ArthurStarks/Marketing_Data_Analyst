@@ -2,9 +2,6 @@
 
 Solution based on the [Google Megalista project](https://github.com/google/megalista).
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DP6/templates-centro-de-inovacoes/main/public/images/centro_de_inovacao_dp6.png" height="100px" />
-</div>
 
 <p align="center">
   <a href="#badge">
