@@ -169,8 +169,6 @@ Only contributions that meet the following requirements will be accepted:
 
 ## Support:
 
-**DP6 Koopa-troopa Team**
+_e-mail: <arthurkaza01@gmail.com.br>_
 
-_e-mail: <koopas@dp6.com.br>_
 
-<img src="https://raw.githubusercontent.com/DP6/templates-centro-de-inovacoes/main/public/images/koopa.png" height="100" />
