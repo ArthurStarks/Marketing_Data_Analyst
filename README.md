@@ -1,4 +1,4 @@
-# MDS - Marketing Data Sync
+# MDS - Marketing Data Analyst
 
 Solution based on the [Google Megalista project](https://github.com/google/megalista).
 
